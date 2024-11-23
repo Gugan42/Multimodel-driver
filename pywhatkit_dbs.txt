@@ -1,0 +1,156 @@
+--------------------
+Date: 12:11:2024
+Time: 23:9
+Phone number: +918637623585
+Message: Hi danger
+--------------------
+Date: 12:11:2024
+Time: 23:11
+Phone number: +918637623585
+Message: Hi danger
+--------------------
+Date: 12:11:2024
+Time: 0:0
+Phone number: +918637623585
+Message: Hi danger
+--------------------
+Date: 12:11:2024
+Time: 23:14
+Phone number: +918637623585
+Message: Hi danger
+--------------------
+Date: 12:11:2024
+Time: 23:18
+Phone number: +918825890559
+Message: Hi danger
+--------------------
+Date: 13:11:2024
+Time: 8:59
+Phone number: +919003764344
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:0
+Phone number: +919003764344
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:3
+Phone number: +917010697594
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:7
+Phone number: +91900376434
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:8
+Phone number: +91900376434
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:8
+Phone number: +919003764344
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:9
+Phone number: +919003764344
+Message: vankam da mapla
+--------------------
+Date: 13:11:2024
+Time: 9:43
+Phone number: +919025084800
+Message: Sucesss
+--------------------
+Date: 13:11:2024
+Time: 9:45
+Phone number: +919025084800
+Message: Sucesss
+--------------------
+Date: 13:11:2024
+Time: 9:45
+Phone number: +919025084800
+Message: Sucesss
+--------------------
+Date: 13:11:2024
+Time: 11:8
+Phone number: +919003764344
+Message: [11.6538, 78.1554]
+--------------------
+Date: 13:11:2024
+Time: 11:9
+Phone number: +919003764344
+Message: [11.6538, 78.1554]
+--------------------
+Date: 13:11:2024
+Time: 11:10
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:18
+Phone number: +919003764344
+Message: vanakam
+--------------------
+Date: 13:11:2024
+Time: 11:38
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:38
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:38
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:38
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:38
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:41
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:41
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:45
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:50
+Phone number: +919003764344
+Message: None
+--------------------
+Date: 13:11:2024
+Time: 11:55
+Phone number: +919003764344
+Message: Latitude and Longitude: [11.6538, 78.1554]
+--------------------
+Date: 13:11:2024
+Time: 11:58
+Phone number: +919003764344
+Message: -------------------------------------------------------------Emergency Alert-----------------------------------:Latitude and Longitude: [11.6538, 78.1554]
+--------------------
+Date: 13:11:2024
+Time: 11:59
+Phone number: +919003764344
+Message: -------------------------------------------------------------Emergency Alert-----------------------------------:Latitude and Longitude: [11.6538, 78.1554]
+--------------------
